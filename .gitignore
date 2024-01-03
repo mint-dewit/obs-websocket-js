@@ -17,6 +17,3 @@ coverage
 
 # Allow web-tester's dist
 !samples/web-tester/dist
-
-# Exclude build outputs (they'll get added automatically by CI).
-dist
